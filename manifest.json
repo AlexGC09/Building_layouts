@@ -1,6 +1,6 @@
 {
-    "name": "building_layouts",
-    "short_name": "building_layouts",
+    "name": "building_layout",
+    "short_name": "building_layout",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
